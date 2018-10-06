@@ -6,5 +6,7 @@ Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med at
 Bilden kommer från Riksantikvarieämbetet och är från 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden.
 
 Visby glasblåseri http://www.visbyglasblaseri.se/
+
 Bilden på Flickr från RAÄ https://www.flickr.com/photos/34419668@N08/4700136932
+
 Storyn om Graham brothers http://ga.gotlandsmuseum.se/view.php?id=415
