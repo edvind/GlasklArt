@@ -7,7 +7,7 @@ Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med at
 
 ---
 
-![Graham](https://github.com/edvind/GlasklArt/raw/master/Engine_in_Almedalen%2C_Visby%2C_1870s.jpg)
+![Graham brothers i Almedalen](https://github.com/edvind/GlasklArt/raw/master/Engine_in_Almedalen%2C_Visby%2C_1870s.jpg)
 Bilden kommer från Riksantikvarieämbetet och är från 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden.
 
 Fotografen är okänd och bilden är public domain.
@@ -15,7 +15,7 @@ Fotografen är okänd och bilden är public domain.
 ---
 
 ![Retusch](https://github.com/edvind/GlasklArt/raw/master/GlasklArt_1.jpg)
-Efter retuschering.
+Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det mer utrymme för fler tester.  
 
 ---
 
