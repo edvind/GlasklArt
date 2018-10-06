@@ -24,7 +24,7 @@ Prototyp under produktion.
 
 ---
 
-[ Bild ] 
+[ Bild ] (https://github.com/edvind/GlasklArt/blob/master/GlasklArt.mp4)
 Vi är klara med den första prototypen.
 
 <br>
