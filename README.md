@@ -1,5 +1,6 @@
 # GlasklArt
-Vi är klara med den första prototypen! 
+
+Att tillgängliggöra kulturarvet till gemene hen är en svår sak. Genom GlasklArt erbjuder vi högkvalitativa utskrifter av återvunnen konst på återvunnet glas. Hållbarhet och nyfikenhet samlas i detta konceptverk som även ger betraktaren möjlighet till fördjupning.
 
 ![Glasklart på Visby glasblåseri](https://github.com/edvind/GlasklArt/raw/master/visby_glasblåseri.png)
 
@@ -8,6 +9,9 @@ Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med at
 Bilden kommer från Riksantikvarieämbetet och är från 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden.
 
 Fotografen är okänd och bilden är public domain.
+
+
+Vi är klara med den första prototypen
 
 <br>
 Visby glasblåseri http://www.visbyglasblaseri.se/
