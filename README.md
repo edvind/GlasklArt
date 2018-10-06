@@ -8,7 +8,7 @@ Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med at
 ---
 
 ![Graham brothers med ångmaskin i Almedalen](https://github.com/edvind/GlasklArt/raw/master/Engine_in_Almedalen%2C_Visby%2C_1870s.jpg)
-Bilden kommer från Riksantikvarieämbetets samlingar och är från tiden runt 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden. Bröderna har fått en sågverkslokomobil lvererad i en last från Skottland.
+Bilden kommer från Riksantikvarieämbetets samlingar och är från tiden runt 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden. Bröderna har fått en sågverkslokomobil levererad i en last från Skottland.
 
 Fotografen är okänd och bilden är public domain.
 
@@ -19,8 +19,8 @@ Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det
 
 ---
 
-![Prototyp](https://github.com/edvind/GlasklArt/raw/master/56051466984__A5E25656-76FC-4392-8C83-00FA0A6374B3.JPG)
-Prototyp under produktion.
+![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
+Första prototypen under produktion. 
 
 ---
 
