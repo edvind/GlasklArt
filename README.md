@@ -10,13 +10,13 @@ Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med at
 Bilden kommer från Riksantikvarieämbetets samlingar och är från tiden runt 1870. Med stor sannolikhet är det bröderna Graham som är på Gotland och driver både sågverk och verkstad. Vyn är tagen från Almedalen med Visby i bakgrunden. Bröderna har fått en sågverkslokomobil levererad i en last från Skottland.
 ![Graham brothers med ångmaskin i Almedalen](https://github.com/edvind/GlasklArt/raw/master/Engine_in_Almedalen%2C_Visby%2C_1870s.jpg)
 
-Fotografen är okänd och bilden är public domain. Det är väl inte en helt felaktig gissning om vi tror att Bröderna Gramham själva är inblandade. Kanske är dett pappa Peter bakom kameran och sönerna Alexander och Patrick om skruvar ihop ångmaskinen. Eller är den inne för lagning? I en skeppslista finns den antagligen med som "1 komplett såverk med en 15 hästkrafters ångmaskin". Dåtidens pengamaskin. 
+Fotografen är okänd och bilden är public domain. Men det är väl inte en helt tokig gissning att det är Bröderna Gramham själva som är inblandade. Kanske är dett pappa Peter bakom kameran och sönerna Alexander och Patrick om skruvar ihop ångmaskinen. Eller är den inne för lagning? Enligt Gotländskt arkiv finns den med i en skeppslista som "1 komplett såverk med en 15 hästkrafters ångmaskin". Dåtidens pengamaskin. 
 
 ---
 
 ![Retuscharbete innan print](https://github.com/edvind/GlasklArt/raw/master/GlasklArt_1.jpg)
 
-Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? 
+Vi retuscherade bilden och anpassade måtten för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? kan sälva formen ändras och tål glaset någon annan bearbetning?
 
 ---
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
