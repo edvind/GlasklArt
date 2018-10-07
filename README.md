@@ -16,14 +16,14 @@ Fotografen är okänd och bilden är public domain. Det är väl inte en helt fe
 
 ![Retuscharbete innan print](https://github.com/edvind/GlasklArt/raw/master/GlasklArt_1.jpg)
 
-Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor eller belysa bilden bakifrån.  
+Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? 
 
 ---
-
+Första prototypen under produktion. Bilden växer fram. Spännande!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
-Första prototypen under produktion. 
-
 ---
+Till prototypen gjorde vi en hållare i ek, linoljad och folierad i sammet med tillhörande tassar. En upplevelse!
+![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
 
 [ Bild ] (https://github.com/edvind/GlasklArt/blob/master/GlasklArt.mp4)
 Vi är klara med den första prototypen.
