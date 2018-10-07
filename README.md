@@ -1,6 +1,11 @@
+> GlasklArt är del av ett grupparbete under Hack for Heritage 2018
+> läs mer om de andra idéerna på http://edvind.github.com/h4h2018
+
 # GlasklArt
 
 Att tillgängliggöra kulturarvet till gemene hen är en svår sak. Genom GlasklArt erbjuder vi högkvalitativa utskrifter av återvunnen konst på återvunnet glas. Hållbarhet och nyfikenhet samlas i detta konceptverk som även ger betraktaren möjlighet till fördjupning.
+
+
 
 ![Glasklart på Visby glasblåseri](https://github.com/edvind/GlasklArt/raw/master/visby_glasblåseri.png)
 Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med att göra själva formen. Visby glasblåseri använder bara återvunnet glas, ofta från de närliggande krogarna i Visby innerstad. Denna gång var det ljust glas med inslag av blått i ugnen. Så det var materialet som vi valde till första prototypen. Den tonen skulle fungera bra med ett äldre fotografi med unsprung från glasplåtar.
