@@ -4,6 +4,7 @@ Att tillgängliggöra kulturarvet till gemene hen är en svår sak. Genom Glaskl
 
 ![Glasklart på Visby glasblåseri](https://github.com/edvind/GlasklArt/raw/master/visby_glasblåseri.png)
 Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med att göra själva formen. Visby glasblåseri använder bara återvunnet glas, ofta från de närliggande krogarna i Visby innerstad, och i denna gång var det ljust glas med inslag av blått i ugnen. Den tonen skulle fungera bra med ett äldre fotografi med unsprung från glasplåtar.
+![Out of red and into the blue](https://github.com/edvind/GlasklArt/raw/master/Ska%CC%88rmavbild%202018-10-06%20kl.%2023.23.48.png)
 
 ---
 
