@@ -23,7 +23,7 @@ Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det
 Första prototypen under produktion. Professionella medarbetare och samarbetspartners ger hög kvalitet i de kritiska momenten.  Bilden växer fram. Spännande!
 
 ---
-Till prototypen gjorde vi en hållare i linoljad ek, insidan är folierad i sammet och med tillhörande tassar blir helheten en upplevelse! En personlig och unik present med valbara motiv.
+Till prototypen gjorde vi en hållare i linoljad ek, folierade insidan med sammet och med tassar på hållaren blir helheten en upplevelse! En personlig och unik present med valbara motiv. Snyggt!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/glas%20(1).jpg)
 
 
