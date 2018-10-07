@@ -22,7 +22,7 @@ Vi retuscherade bilden och anpassade mått för vårt glasstycke. Här finns det
 Första prototypen under produktion. Bilden växer fram. Spännande!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
 ---
-Till prototypen gjorde vi en hållare i ek, linoljad och folierad i sammet med tillhörande tassar. En upplevelse!
+Till prototypen gjorde vi en hållare i linoljad ek, insidan är folierad i sammet och med tillhörande tassar blir helheten en upplevelse!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/glas%20(1).jpg)
 
 
