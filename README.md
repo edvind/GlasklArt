@@ -23,10 +23,8 @@ Första prototypen under produktion. Bilden växer fram. Spännande!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
 ---
 Till prototypen gjorde vi en hållare i ek, linoljad och folierad i sammet med tillhörande tassar. En upplevelse!
-![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
+![Prototyp](https://github.com/edvind/GlasklArt/raw/master/glas%20(1).jpg)
 
-[ Bild ] (https://github.com/edvind/GlasklArt/blob/master/GlasklArt.mp4)
-Vi är klara med den första prototypen.
 
 <br>
 Visby glasblåseri http://www.visbyglasblaseri.se/
