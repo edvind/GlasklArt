@@ -21,7 +21,7 @@ Fotografen är okänd och bilden är public domain. Men det är väl inte en hel
 
 ![Retuscharbete innan print](https://github.com/edvind/GlasklArt/raw/master/GlasklArt_1.jpg)
 
-Vi retuscherade bilden och anpassade måtten för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? Kan själva formen ändras och tål glaset någon annan slags bearbetning?
+Vi retuscherade bilden och anpassade måtten för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om man belyser bilden bakifrån? Kan själva formen ändras och tål glaset någon annan slags bearbetning?
 
 ---
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
