@@ -8,7 +8,7 @@ Att tillgängliggöra kulturarvet till gemene hen är en svår sak. Genom Glaskl
 
 
 ![Glasklart på Visby glasblåseri](https://github.com/edvind/GlasklArt/raw/master/visby_glasblåseri.png)
-Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med att göra själva formen. Visby glasblåseri använder bara återvunnet glas, ofta från de närliggande krogarna i Visby innerstad. Denna gång var det ljust glas med inslag av blått i ugnen. Så det var materialet som vi valde till första prototypen. Den tonen skulle fungera bra med ett äldre fotografi med unsprung från glasplåtar.
+Ett par veckor innan Hack 4 Heritage fick vi hjälp av Visby glasblåseri med att göra själva formen. Visby glasblåseri använder bara återvunnet glas från de närliggande krogarna i Visby innerstad. Denna gång var det ljust glas med inslag av blått i ugnen. Så det var materialet som vi valde till första prototypen. Den tonen skulle fungera bra med ett äldre fotografi med ursprung från glasplåtar.
 ![Out of red and into the blue](https://github.com/edvind/GlasklArt/raw/master/Ska%CC%88rmavbild%202018-10-06%20kl.%2023.23.48.png)
 
 ---
@@ -21,14 +21,14 @@ Fotografen är okänd och bilden är public domain. Men det är väl inte en hel
 
 ![Retuscharbete innan print](https://github.com/edvind/GlasklArt/raw/master/GlasklArt_1.jpg)
 
-Vi retuscherade bilden och anpassade måtten för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? kan sälva formen ändras och tål glaset någon annan bearbetning?
+Vi retuscherade bilden och anpassade måtten för vårt glasstycke. Här finns det mer utrymme för fler tester. Vad är fram och vad är baksida? Ska man printa på bägge sidor? Blir det en bättre upplevelse om an belyser bilden bakifrån? Kan själva formen ändras och tål glaset någon annan slags bearbetning?
 
 ---
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/IMG_9704.JPG)
 Första prototypen under produktion. Professionella medarbetare och samarbetspartners ger hög kvalitet i de kritiska momenten.  Bilden växer fram. Spännande!
 
 ---
-Till prototypen gjorde vi en hållare i linoljad ek, folierade insidan med sammet och med tassar på hållaren blir helheten en upplevelse! En personlig och unik present med valbara motiv. Snyggt!
+Till prototypen gjorde vi en hållare i linoljad ek, folierade insidan med sammet. Med tassar på hållaren blir helheten en upplevelse! En personlig och unik present med valbara motiv från kulturarvet. Snyggt!
 ![Prototyp](https://github.com/edvind/GlasklArt/raw/master/glas%20(1).jpg)
 
 
